@@ -5,6 +5,7 @@ public class Kata{
         for (int i : array) {
             s += i;
         }
+
         return s / array.length;
 
     }
