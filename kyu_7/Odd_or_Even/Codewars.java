@@ -6,9 +6,6 @@ public class Codewars {
             if (array[i] % 2 != 0) {
                 return "odd";
             }
-            if (array[i] % 2 != 0) {
-                return "odd";
-            }
         }
         return "0";
     }
