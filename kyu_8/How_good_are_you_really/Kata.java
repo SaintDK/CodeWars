@@ -7,7 +7,7 @@ public class Kata {
             sum += classPoints[i];
         }
         sum = sum / classPoints.length;
-        if (yourPoints < sum) {
+        if (yourPoints <= sum) {
             return false;
         } else {
             return true;
