@@ -1,2 +1,2 @@
 # CodeWars
-Solving tests on CodeWars to improve skills
+Solving tests on CodeWars for learning
