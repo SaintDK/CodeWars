@@ -1,2 +1,2 @@
 # CodeWars
-Solving tests on CodeWars for learning
+Solving tests on CodeWars for learning 
