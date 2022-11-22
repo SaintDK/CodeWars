@@ -1,12 +1,12 @@
 package kyu_8.Counting_sheep;
 public class Counter {
     public int countSheeps(Boolean[] arrayOfSheeps) {
-        int count = 0;
-        for(int i = 0; i < arrayOfSheeps.length; i++){
-            if(arrayOfSheeps[i]){
-                count ++;
+        int counter = 0;
+        for (Boolean present : arrayOfSheeps) {
+            if (present != null && present) {
+                counter += 1;
             }
         }
-        return count;
+        return counter;
     }
 }
