@@ -7,7 +7,7 @@ public class DayOfWeek {
 
     public static String getDay(int n) {
 
-        if (n > 7) {return "Wrong, please enter a number between 1 and 7";}
+        if (n > 7 || n <= 0) {return "Wrong, please enter a number between 1 and 7";}
 
         Map<Integer, String> map = new HashMap<>();
         map.put(1, "Sunday");
