@@ -12,4 +12,5 @@ class Kata {
                 .map(i -> i.toString())
                 .collect(Collectors.joining(""));
     }
+
 }
