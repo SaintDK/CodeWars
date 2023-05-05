@@ -1,7 +1,6 @@
-package kyu_8.max_diff_easy;
+package kyu_7.max_diff_easy;
 
 import java.util.Arrays;
-import java.util.OptionalInt;
 
 public class Kata {
 

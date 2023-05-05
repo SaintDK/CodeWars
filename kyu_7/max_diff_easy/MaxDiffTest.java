@@ -1,8 +1,7 @@
-package kyu_8.max_diff_easy;
+package kyu_7.max_diff_easy;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
-import org.junit.runners.JUnit4;
 
 public class MaxDiffTest {
 
