@@ -4,9 +4,17 @@ public class Converter{
     public static int binToDecimal(String inp){
         return Integer.parseInt(inp, 2);
     }
-    //test
-    //test1
-    //test from branch
-    //test from branch1
-    //1
+
 }
+
+//public class Converter{
+//    public static int binToDecimal(String inp){
+//        int res = 0;
+//        int j = 1;
+//        for(int i = inp.length() - 1; i >=0; i--){
+//            res += j*((int)inp.charAt(i) - 48);
+//            j *= 2;
+//        }
+//        return res;
+//    }
+//}
