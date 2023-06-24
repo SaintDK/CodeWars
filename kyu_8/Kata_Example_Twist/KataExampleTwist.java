@@ -12,3 +12,9 @@ public class KataExampleTwist
         return websites;
     }
 }
+
+//class KataExampleTwist {
+//    static String[] kataExampleTwist() {
+//        return "codewars,".repeat(1000).split(",");
+//    }
+//}
